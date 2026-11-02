@@ -1,7 +1,7 @@
 {
   "name": "basic-react",
   "version": "0.1.0",
-  "homepage": "https://khushal098.github.io/Basic-react",
+  "homepage": "https://khushal098.github.io/React",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
